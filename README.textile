@@ -57,3 +57,5 @@ h2. Links
 "Pedometer at Google Code":http://code.google.com/p/pedometer/ - screenshots, issue tracker
 "Comments from Market (Cyrket)":http://www.cyrket.com/package/name.bagi.levente.pedometer
 
+传感器加速计步，获取当前的运动状态，速度，已行驶的距离，
+备注：所获得数据不准确。
